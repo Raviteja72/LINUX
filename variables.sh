@@ -1,5 +1,5 @@
 #! /usr/bin/bash
-
+echo "Adding variables and additional features"
 #THIS IS THE COMMENTING PROG 
 
 echo "Hi bro "  #THIS IS ALSO A COMMENT 
